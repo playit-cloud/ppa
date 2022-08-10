@@ -262,3 +262,36 @@ SHA1: 562b3ce711243401b61d3df10b82f0becba3fac5
 SHA256: 851874bb313bcc5f0d9b7d016813436b14fdb69cc5e76c225bb93c5497c21e24
 Description: using playit.gg makes it possible to host game servers at home without port forwarding
 
+Package: playit
+Version: 0.9.0-rc2
+Architecture: arm64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Filename: ./playit_0.9.0-rc2_arm64.deb
+Size: 2108668
+MD5sum: 29cb2117884a97fa4f0c075825275118
+SHA1: d63217b935259dae74ae8cc1923cb5c39ab60f53
+SHA256: d04ac6190b35d06f2c4c922336756c23eea172568322f4459d7c67ed552e52e5
+Description: using playit.gg makes it possible to host game servers at home without port forwarding
+
+Package: playit
+Version: 0.9.0-rc2
+Architecture: armhf
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Filename: ./playit_0.9.0-rc2_armhf.deb
+Size: 1947032
+MD5sum: 86f57f9fa07a3a14e0659cfcffa4c4bb
+SHA1: eff05d579c7832ed30cefe1c2d22f6db053454f5
+SHA256: 550e2e4a920f95a56cf1926d8b43e99460ddba6b05c1474362e1493219d6d156
+Description: using playit.gg makes it possible to host game servers at home without port forwarding
+
+Package: playit
+Version: 0.9.0-rc2
+Architecture: amd64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Filename: ./playit_0.9.0-rc2_amd64.deb
+Size: 2259032
+MD5sum: 0fd011e202631d8b295c9ee13b13c0a7
+SHA1: 054c1609d2c0bb7ecadc305f11a47ee3ae4aeae3
+SHA256: 50474bc595046c945c3a104484a4635460e14f13269e5e7827584996ae39fa6a
+Description: using playit.gg makes it possible to host game servers at home without port forwarding
+
