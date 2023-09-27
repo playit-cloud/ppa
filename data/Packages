@@ -155,6 +155,78 @@ SHA256: 2ff6f78a66a541c902858b45b88c3dcf1d6e0707a342523bc6e05e3f4315ecc0
 Description: Making it easy to play games with friends. Makes your server public
 
 Package: playit
+Version: 0.15.3
+Architecture: mips
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_mips.deb
+Size: 3305758
+MD5sum: d80ed6d2eaadd53a067fa5bf8555a7cf
+SHA1: c007afbb1fdcbe37eaca7d217d55d6c3981bcbd3
+SHA256: 0ab99caf3006ee777bd89ffe9b36457de40a9a53a27993f7b73b20a372638330
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 0.15.3
+Architecture: armhf
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_armhf.deb
+Size: 1902374
+MD5sum: 046faf9bc27f0daf2528728670e593a6
+SHA1: 5aae1926092627d43aca31a11c3a5d77691ec154
+SHA256: 19b4c8af34460fc7b44853557318cae040a8e177e86c478b9953e38b89b33192
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 0.15.3
+Architecture: mipsel
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_mipsel.deb
+Size: 3253386
+MD5sum: 93781286986538152d2969ff97c9dc6a
+SHA1: fbc4d0363b50d1bb81ef2522bd86a1356a351298
+SHA256: a2c4a102b615e7fabbd6a46def15aab1515899ba4c9420ec1ef5b1968ee6811a
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 0.15.3
+Architecture: i386
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_i386.deb
+Size: 2062036
+MD5sum: c39c6f30f3747fea7f0e70a12ddd5a7a
+SHA1: cca3fea55d77fc89744a2e110aa092a2f8ebded1
+SHA256: e618d65378a3db658ba9bf02848f6a57031985de58b0817b62524ca838ff794d
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 0.15.3
+Architecture: arm64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_arm64.deb
+Size: 2255098
+MD5sum: c706558d7653456bef372e55a6c117a4
+SHA1: 05276b1ebfea490f33e6aa8f08cf46ce69506b1b
+SHA256: b1a250c71b2e24c0934dda8016614f1146cdea9fa778c8e003340ce0d5fa776a
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 0.15.3
+Architecture: amd64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_0.15.3_amd64.deb
+Size: 2134294
+MD5sum: 7491e294bb9e51a9da94e6c22b3456c2
+SHA1: fbf0bc15bdc28b50293d2cdcf3f69c36d2a600f5
+SHA256: 975732f52c9c0b945b83c59ceef42be44ba840c7807d14198dbd0263ce2d0fd4
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
 Version: 0.7.1-beta
 Architecture: amd64
 Maintainer: Patrick Lorio <patrick@playit.gg>
