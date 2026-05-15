@@ -1848,6 +1848,30 @@ Description: using playit.gg makes it possible to host game servers at home with
 
 Package: playit
 Version: 1.0.0
+Architecture: armhf
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_1.0.1_armhf.deb
+Size: 4276642
+MD5sum: 5e5fc6c5ddb84b1bbf4ba0b4036e0a71
+SHA1: 8e54b23ea1f6ca0106e94921252d27a1933fe037
+SHA256: 894b7e615b29b276b14f90b3e48169e7d57a7fedaf9818ded484749ab0547b9a
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_1.0.1_arm64.deb
+Size: 5079584
+MD5sum: d79efd2fb434e33ab05ca1995cadfc47
+SHA1: 2b0f1e708738678ed4bc822364147d7423fce5b0
+SHA256: 7ad4af42b1040d1a98c69bd31dc42af8335ce237357fbce69b6d17d8fc7d93c2
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.0
 Architecture: amd64
 Maintainer: Patrick Lorio <patrick@playit.gg>
 Depends: logrotate
@@ -1856,6 +1880,18 @@ Size: 4963884
 MD5sum: c9b5079f8885978b70c3a696b486a408
 SHA1: e3eac96d201df176572b0bf49a8a12b6d4d0eb35
 SHA256: 24d291056ec8f415162d6bce78d503ecd62175cae94cfe1e575d82fb076a5474
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.0
+Architecture: i386
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_1.0.1_i386.deb
+Size: 4541424
+MD5sum: 6a62dae0ee8eba1dbd548a9ac4e7e2cc
+SHA1: 6dafb9268413cc0bf9342bb96bd9182f7f5e88be
+SHA256: 71b3fa4381eedffcc29fe551c41e4b59f824bf4aba9012256558455d3b4ec5fe
 Description: Making it easy to play games with friends. Makes your server public
 
 Package: playit
@@ -1880,6 +1916,18 @@ Size: 4541110
 MD5sum: 320eb2a9a7ddc71cafa4d7ecb7918b6f
 SHA1: c17e65cb4725ea5e509cb8e88aec584ab55affcb
 SHA256: d9935d1908abe765b1087a2f31958c0e164148cbbf1e992f20db1269bef81de1
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Depends: logrotate
+Filename: ./playit_1.0.1_amd64.deb
+Size: 4964010
+MD5sum: ba1ef8f9151755befa3ea191a6352f24
+SHA1: 2532890b8c299adac0ef4eb4546c5974edc93320
+SHA256: 62cb869477f2d773867c1de10d62a6f0cef1e5fc65293e6e861ec7ed6574dcae
 Description: Making it easy to play games with friends. Makes your server public
 
 Package: playit
