@@ -1,7 +1,6 @@
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+#!/usr/bin/env bash
+set -euo pipefail
 
-cd "${SCRIPT_DIR}/../data"
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
-dpkg-scanpackages --multiversion . > Packages
-gzip -k -f Packages
-apt-ftparchive release . > Release
+exec "${SCRIPT_DIR}/debian/update.sh" "$@"

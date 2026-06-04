@@ -1,6 +1,6 @@
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+#!/usr/bin/env bash
+set -euo pipefail
 
-cd "${SCRIPT_DIR}/../data"
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
-gpg --local-user DA6CD75EC2839680 -a -o Release.pgp --detach-sig Release
-gpg --local-user DA6CD75EC2839680 -a -o InRelease --clearsign Release
+exec "${SCRIPT_DIR}/debian/sign.sh" "$@"

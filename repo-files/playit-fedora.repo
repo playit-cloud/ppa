@@ -1,0 +1,8 @@
+[playit]
+name=playit
+baseurl=https://playit-cloud.github.io/ppa/rpm/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://playit-cloud.github.io/ppa/key.gpg
+metadata_expire=1h

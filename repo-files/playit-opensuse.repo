@@ -1,0 +1,9 @@
+[playit]
+name=playit
+enabled=1
+autorefresh=1
+baseurl=https://playit-cloud.github.io/ppa/rpm/$basearch
+type=rpm-md
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://playit-cloud.github.io/ppa/key.gpg
