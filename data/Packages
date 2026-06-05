@@ -2246,3 +2246,67 @@ Priority: optional
 Homepage: https://playit.gg
 Description: Making it easy to play games with friends. Makes your server public
 
+Package: playit
+Version: 1.0.8-1
+Architecture: arm64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Installed-Size: 11549
+Depends: logrotate
+Filename: ./playit_1.0.8_arm64.deb
+Size: 5251816
+MD5sum: 2cf41eac9f17336cc966e9d162f6cf5c
+SHA1: 01f56b8c105df0b342120708af921645df95a8d1
+SHA256: 03fc6b0359b173178eeb7018c57153cd120bc906b72b435801691d28e44df257
+Section: net
+Priority: optional
+Homepage: https://playit.gg
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.8-1
+Architecture: i386
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Installed-Size: 9958
+Depends: logrotate
+Filename: ./playit_1.0.8_i386.deb
+Size: 4640176
+MD5sum: 2d819579a1fa144872a6d915e0dfebdf
+SHA1: fad7d55bb4346ff60995c6994fe3365e5572df8c
+SHA256: 92c6df3e484340f637e7c172f3b9c108decd11c9414403c376ff1957c5787854
+Section: net
+Priority: optional
+Homepage: https://playit.gg
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.8-1
+Architecture: armhf
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Installed-Size: 9759
+Depends: logrotate
+Filename: ./playit_1.0.8_armhf.deb
+Size: 4364894
+MD5sum: 8b2d975cd9e29692e056416bc11bb450
+SHA1: 4bce3106b158c8f326086d13f071893c7acb5672
+SHA256: 5b65f7b9f3b94d73fd3a1434945dfd9a5e2f533faebc7ccf8dfe8afd62252cae
+Section: net
+Priority: optional
+Homepage: https://playit.gg
+Description: Making it easy to play games with friends. Makes your server public
+
+Package: playit
+Version: 1.0.8-1
+Architecture: amd64
+Maintainer: Patrick Lorio <patrick@playit.gg>
+Installed-Size: 10988
+Depends: logrotate
+Filename: ./playit_1.0.8_amd64.deb
+Size: 5043476
+MD5sum: 127ddcf376cb30d0a0348ef5c6427927
+SHA1: 3ac7f285935a131bbfa3d78a7f00ca6d18d0b458
+SHA256: fae87b753503b2d36b352f1ea1e0a78ac5fd16e7c09e2f19b49a410e5a53fe3c
+Section: net
+Priority: optional
+Homepage: https://playit.gg
+Description: Making it easy to play games with friends. Makes your server public
+
